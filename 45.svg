@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1413.4338"
-     inkscape:cy="1589.6141"
+     inkscape:cx="247.71951"
+     inkscape:cy="1578.1855"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -62,13 +62,13 @@
     <image
        sodipodi:absref="/home/marco/Downloads/trellik_wall/IMG_20190414_120445.jpg"
        xlink:href="IMG_20190414_120445.jpg"
-       y="-390.46307"
-       x="-236.46191"
-       id="image4542"
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
+       width="914.40002"
        height="1219.2"
-       width="914.40002" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       id="image4542"
+       x="-236.46191"
+       y="-390.46307" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -77,7 +77,7 @@
      style="display:inline"
      transform="translate(91.943434,131.74054)">
     <path
-       style="display:inline;opacity:0.70200004;fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.70200004;fill:#000000;stroke:#ff0000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        d="m -88.091379,-120.194 57.853285,12.00352 c 29.37567969,-6.38867 51.561775,-12.06003 69.898732,-20.94132 60.258283,11.27859 212.602252,93.995679 209.651402,96.038573 -4.94469,17.341462 32.02398,35.7856448 60.62844,36.7837033 11.46328,59.8472997 30.60935,104.6254837 94.11605,136.4494037 49.17154,82.49778 46.37498,15.46209 128.13395,360.96727 -119.36121,59.21688 -142.4961,112.22256 -146.65477,162.52975 -20.00992,24.48218 -43.27634,34.31009 -67.27977,40.82141 -57.20449,-43.1876 -100.48,-54.71611 -153.45832,-12.85116 L 107.34524,612.9881 C 88.609674,607.83802 71.683901,613.28778 65.011903,612.23214 51.924014,625.46547 56.69916,636.64652 52.916666,646.25 L 26.458333,640.95833 C 24.061365,625.15136 12.260744,609.18756 12.575034,593.31827 13.496955,546.76806 22.56124,495.46969 -1.5789968,461.90218 c 0,0 -41.2254932,-340.17936 -57.3852872,-500.545036 z"
        id="path4545"
        inkscape:connector-curvature="0"
